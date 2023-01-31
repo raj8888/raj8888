@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
@@ -7,17 +7,13 @@
 
 - 💬 Ask me about **Full-Stack Web Development and DSA**
 
-- 📫 How to reach me **rajvardhanj2000@gmail.com**
-
 - 📄 Know about my experiences [Rajvardhan's resume](https://drive.google.com/file/d/1B5soRMn7Q4wVzXpnbz3P4VbqDkI-hd_Z/view?usp=share_link)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajvardhanrj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/225px-Twitter-logo.svg.png" alt="rajvardhanrj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-rajvardhan-jadhav-81a5011b4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="mr-rajvardhan-jadhav-81a5011b4" height="30" width="40" /></a>
-</p>
+- 📫 How to reach to me [LinkedIn](www.linkedin.com/in/mr-rajvardhan-jadhav-81a5011b4)
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj8888&label=Profile%20views&color=0e75b6&style=flat" alt="raj8888" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,7 +26,8 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*iDvsmUwzZQxJSKdL0xzwIA.png" alt="MongooseJS" width="80" height="40"/> </a> 
  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" alt="netlify" width="80" height="40"/> </a> 
+<a href="https://npm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="80" height="40"/> </a> 
 </p>
 
 <h3 align="left">Tech Stack Used:</h3>
