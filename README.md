@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Full-Stack Web Development , DSA**
+- 💬 Ask me about **Full-Stack Web Development and DSA**
 
 - 📫 How to reach me **rajvardhanj2000@gmail.com**
 
