@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Backend Development**
 
