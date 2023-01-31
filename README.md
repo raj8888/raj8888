@@ -1,7 +1,7 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
+[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<h3 align="center">A passionate full-stack web developer from India</h3>
+<img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajvardhanrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvardhanrj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-rajvardhan-jadhav-81a5011b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-rajvardhan-jadhav-81a5011b4" height="30" width="40" /></a>
+<a href="https://twitter.com/rajvardhanrj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/225px-Twitter-logo.svg.png" alt="rajvardhanrj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-rajvardhan-jadhav-81a5011b4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="mr-rajvardhan-jadhav-81a5011b4" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj8888&label=Profile%20views&color=0e75b6&style=flat" alt="raj8888" /> </p>
 <h3 align="left">Languages and Tools:</h3>
