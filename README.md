@@ -1,6 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+<h3 align="center">I am a Full Stack Web Developer specialized in Node JS. I am an enthusiastic and hard-working person who is passionate about web development and coding. My Tech skills include HTML5, CSS, JavaScript, Node.JS, Express-JS, GitHub, MongoDB and Mongoose.
+</h3>
 <img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Backend Development**
