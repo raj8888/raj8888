@@ -30,6 +30,7 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/300px-Redis_Logo.svg.png" alt="redis" width="80" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" alt="nodejs" width="80" height="40"/> </a> 
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="80" height="40"/> </a> 
+ <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/180px-Socket-io.svg.png" alt="socket.io" width="80" height="40"/> </a> 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*iDvsmUwzZQxJSKdL0xzwIA.png" alt="MongooseJS" width="80" height="40"/> </a> 
  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> </a>
